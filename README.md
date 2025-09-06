@@ -1,16 +1,32 @@
-## Hi there 👋
+# Gidey Tsegaye Kinfe - Portfolio
 
-<!--
-**gideyPro/gideyPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the repository for my personal portfolio website. You can view the live version here:
 
-Here are some ideas to get you started:
+**Live Demo:** [https://gideyPro.github.io/gideyPro/](https://gideyPro.github.io/gideyPro/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+A passionate and results-oriented software developer with a strong foundation in Android, Java, and PHP for web development.
+
+---
+
+## Skills
+
+*   Android
+*   Java
+*   PHP (Web Development)
+
+---
+
+## Projects
+
+To see my projects, please visit my portfolio website.
+
+---
+
+## Contact
+
+*   **Email:** [gits746@gmail.com](mailto:gits746@gmail.com)
+*   **GitHub:** [https://github.com/gideyPro](https://github.com/gideyPro)
