@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Awesome Android App",
+        "description": "A revolutionary Android application that changes the way you do things. It's built with the latest technologies and a focus on user experience.",
+        "link": "#",
+        "technologies": ["Java", "Android Studio", "Firebase"]
+    },
+    {
+        "name": "Modern Web App",
+        "description": "A sleek and responsive web application for all your needs. It features a clean design and powerful functionality.",
+        "link": "#",
+        "technologies": ["PHP", "JavaScript", "MySQL", "Bootstrap"]
+    },
+    {
+        "name": "Portfolio Website",
+        "description": "A personal portfolio website to showcase my skills and projects. Designed to be simple, elegant, and easy to navigate.",
+        "link": "#",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    }
+]
