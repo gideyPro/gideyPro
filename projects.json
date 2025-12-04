@@ -1,20 +1,26 @@
 [
     {
-        "name": "Awesome Android App",
-        "description": "A revolutionary Android application that changes the way you do things. It's built with the latest technologies and a focus on user experience.",
-        "link": "#",
-        "technologies": ["Java", "Android Studio", "Firebase"]
+        "name": "E-commerce Platform",
+        "description": "A full-featured e-commerce platform with a custom CMS, secure payment gateway integration, and a responsive user interface.",
+        "link": "https://github.com/gideyPro/ecommerce-platform",
+        "technologies": ["PHP", "Laravel", "Vue.js", "MySQL"]
     },
     {
-        "name": "Modern Web App",
-        "description": "A sleek and responsive web application for all your needs. It features a clean design and powerful functionality.",
-        "link": "#",
-        "technologies": ["PHP", "JavaScript", "MySQL", "Bootstrap"]
+        "name": "Task Management App",
+        "description": "A productivity app for task management, featuring a drag-and-drop interface, real-time collaboration, and notification alerts.",
+        "link": "https://github.com/gideyPro/task-management-app",
+        "technologies": ["Java", "Spring Boot", "Angular", "PostgreSQL"]
     },
     {
-        "name": "Portfolio Website",
-        "description": "A personal portfolio website to showcase my skills and projects. Designed to be simple, elegant, and easy to navigate.",
-        "link": "#",
-        "technologies": ["HTML", "CSS", "JavaScript"]
+        "name": "Social Media Dashboard",
+        "description": "A social media dashboard that aggregates data from multiple APIs, providing users with analytics and content scheduling.",
+        "link": "https://github.com/gideyPro/social-media-dashboard",
+        "technologies": ["JavaScript", "React", "Node.js", "MongoDB"]
+    },
+    {
+        "name": "Weather Forecast App",
+        "description": "A weather application that provides real-time weather data and forecasts, using a third-party API and a clean, intuitive interface.",
+        "link": "https://github.com/gideyPro/weather-forecast-app",
+        "technologies": ["Android", "Kotlin", "Retrofit", "Google Maps API"]
     }
 ]
